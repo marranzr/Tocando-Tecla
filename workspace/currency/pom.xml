@@ -10,12 +10,12 @@
     <version>4.2.0</version>
 
     <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
+        <name>Tocando Tecla</name>
+        <url>http://tocandotecla.com</url>
     </organization>
 
     <name>currency</name>
-    <description>This is the com.tocandotecla.jira.plugins:currency plugin for Atlassian JIRA.</description>
+    <description>Ejemplo 1 del libro de plugins de O'Reilly</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
